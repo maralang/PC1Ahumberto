@@ -1,3 +1,8 @@
-p{
+.textoazul{
     color: blue;
+}
+
+#titulo{
+color: brown;
+text-align: center;
 }
