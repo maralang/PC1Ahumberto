@@ -3,7 +3,7 @@
 }
 .textorosa{
     color: #0992f3;
-    text-size: 50px;
+    
 }
 #titulo{
 color: brown;
@@ -11,6 +11,7 @@ text-align: center;
 }
 body{
 background-color:grey ;
+text-size: 50px;
 }
 #imgmenor{
 width: 400px;
