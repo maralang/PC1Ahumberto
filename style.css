@@ -11,10 +11,11 @@ text-align: center;
 }
 body{
 background-color:grey ;
-text-align: center 
+text-align: center
+text-size: 30px
 }
 #imgmenor{
-width: 500px;
+width: 400px;
 }
 .imgcentro{
 width: 400px;
