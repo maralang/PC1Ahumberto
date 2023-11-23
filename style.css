@@ -1,11 +1,11 @@
 .textoazul{
     color: rgb(207, 207, 218);
     font-size: 20px;
+    background-image: -moz-linear-gradient(brown, rgb(224, 186, 186));
 }
 .textorosa{
     color: rgb(244, 247, 249);
     font-size: 20px;
-    background-image: -moz-linear-gradient(brown, rgb(224, 186, 186));
     
 }
 #titulo{
