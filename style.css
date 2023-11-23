@@ -11,6 +11,7 @@
 color: brown;
 text-align: center;
 font-size: 25px;
+background-image: -moz-linear-gradient(brown, rgb(224, 186, 186));
 }
 body{
 background-color:grey ;
