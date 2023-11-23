@@ -5,13 +5,13 @@
 .textorosa{
     color: rgb(244, 247, 249);
     font-size: 20px;
+    background-image: -moz-linear-gradient(brown, rgb(224, 186, 186));
     
 }
 #titulo{
 color: brown;
 text-align: center;
 font-size: 25px;
-background-image: -moz-linear-gradient(brown, rgb(224, 186, 186));
 }
 body{
 background-color:grey ;
