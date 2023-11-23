@@ -1,7 +1,6 @@
 .textoazul{
     color: rgb(207, 207, 218);
     font-size: 20px;
-    background-image: -moz-linear-gradient(brown, rgb(224, 186, 186));
 }
 .textorosa{
     color: rgb(244, 247, 249);
@@ -14,7 +13,7 @@ text-align: center;
 font-size: 25px;
 }
 body{
-background-color:grey ;
+background-image: -moz-linear-gradient(brown, rgb(224, 186, 186));
 text-align: justify
 font-size: 20px;
 padding: 20px;
