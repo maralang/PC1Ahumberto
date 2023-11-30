@@ -31,4 +31,16 @@ width: 400px;
     padding: 20px;
     font-size: 22px;
     color: blue;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+header{
+    background-color: rgb(4, 61, 61);
+    padding: 20px;
+    font-size: 22px;
+    color: blue;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;   
 }
