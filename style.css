@@ -42,5 +42,6 @@ header{
     color: blue;
     margin: 0px;
     display: flex;
-    justify-content: space-around;   
+    justify-content: space-around;
+    border-bottom: 2px double rgb(253, 253, 252);;   
 }
