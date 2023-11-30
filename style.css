@@ -28,4 +28,7 @@ width: 400px;
 }
 .cabecalho{
     background-color: rgb(4, 61, 61);
+    padding: 20px;
+    font-size: 22px;
+    color: blue;
 }
